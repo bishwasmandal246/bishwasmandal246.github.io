@@ -158,3 +158,15 @@ $(document).ready(function() {
     });
 });
 
+$(document).ready(function() {
+    $('.try18').click(function() {
+            $('.myDIV18').slideToggle("down");
+    });
+});
+
+$(document).ready(function() {
+    $('.try19').click(function() {
+            $('.myDIV19').slideToggle("down");
+    });
+});
+
