@@ -602,7 +602,7 @@ body{
   margin-left: -2em;
 }
 
-.myDIV1,.myDIV2,.myDIV3,.myDIV4,.myDIV5,.myDIV6,.myDIV7,.myDIV8,.myDIV9,.myDIV10,.myDIV11,.myDIV12,.myDIV13,.myDIV14,.myDIV15,.myDIV16,.myDIV17{
+.myDIV1,.myDIV2,.myDIV3,.myDIV4,.myDIV5,.myDIV6,.myDIV7,.myDIV8,.myDIV9,.myDIV10,.myDIV11,.myDIV12,.myDIV13,.myDIV14,.myDIV15,.myDIV16,.myDIV17,.myDIV18,.myDIV19{
     width: 100%;
     padding: 5px 3%;
     background-image: -webkit-gradient(linear, left bottom, left top, from(#ebebeb), to(#f4f4f4));
